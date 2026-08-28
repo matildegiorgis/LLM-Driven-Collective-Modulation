@@ -6,7 +6,7 @@ Uno strumento modulare di sentiment analysis basato sull'IA che utilizza Google 
 
 ## Panoramica (Overview)
 
-Il sistema riceve in ingresso dei messaggi da parte del pubblico, li raggruppa e li invia a Gemini per l'analisi. I parametri risultanti (es. dinamica, timbro,  ) vengono poi spediti via OSC a Max/MSP.
+Il sistema riceve in ingresso dei messaggi da parte del pubblico, li raggruppa e li invia a Gemini per l'analisi. I parametri risultanti (es. dinamica, timbro, frammentazione ritmica) vengono poi spediti via OSC a Max/MSP.
 
 La latenza in ogni fase della pipeline viene misurata e registrata in performance_report.txt.
 
