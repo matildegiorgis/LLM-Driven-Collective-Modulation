@@ -1,0 +1,8 @@
+# VIOLA Analyzer — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Google Gemini API client
+google-generativeai>=0.8.0
+
+# OSC (Open Sound Control) messaging
+python-osc>=1.8.3

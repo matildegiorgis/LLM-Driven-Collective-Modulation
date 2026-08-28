@@ -1,0 +1,132 @@
+
+======================================================================
+OFFLINE ANALYSIS SESSION: 2026-07-14 15:41:52
+======================================================================
+[15:43:00] ANALYSIS CYCLE
+   AUDIENCE INPUTS (3): I want it darker and more muffled | More bass, less brightness | Make it more energetic
+   OLD STATE  -> P:1.00  F:1.0  D:0.5  T:1000
+   NEW STATE  -> P:0.60  F:4.5  D:2.0  T:100
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 7790.4 ms
+     • LLM → Update (KEY)    : 7793.9 ms
+     • Full cycle time       : 7794.4 ms
+     • Avg msg buffer wait   : 31878.2 ms
+     • Max end-to-end (worst): 52609.6 ms
+----------------------------------------------------------------------
+[15:44:14] ANALYSIS CYCLE
+   AUDIENCE INPUTS (7): Too bright, bring it down | Make it more low and heavy | Make it explode now | I want the sound darker and deeper | A calm and slow atmosphere | More movement, more energy | I want a smooth, liquid atmosphere
+   OLD STATE  -> P:0.60  F:4.5  D:2.0  T:100
+   NEW STATE  -> P:0.50  F:4.5  D:3.0  T:100
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 14902.5 ms
+     • LLM → Update (KEY)    : 14904.4 ms
+     • Full cycle time       : 14904.9 ms
+     • Avg msg buffer wait   : 50885.4 ms
+     • Max end-to-end (worst): 82304.7 ms
+----------------------------------------------------------------------
+[15:45:39] ANALYSIS CYCLE
+   AUDIENCE INPUTS (4): More ambient and less aggressive | Reduce the energy | I want a suffocatingly dense atmosphere | Create a frantic energy that keeps accelerating
+   OLD STATE  -> P:0.50  F:4.5  D:3.0  T:100
+   NEW STATE  -> P:0.50  F:3.2  D:2.6  T:100
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 24576.1 ms
+     • LLM → Update (KEY)    : 24577.6 ms
+     • Full cycle time       : 24578.2 ms
+     • Avg msg buffer wait   : 71072.8 ms
+     • Max end-to-end (worst): 98259.4 ms
+----------------------------------------------------------------------
+
+======================================================================
+OFFLINE ANALYSIS SESSION: 2026-07-14 16:00:58
+======================================================================
+[16:02:03] ANALYSIS CYCLE
+   AUDIENCE INPUTS (2): I want it darker and more muffled | Make it granular like sand
+   OLD STATE  -> P:1.00  F:1.0  D:0.5  T:1000
+   NEW STATE  -> P:0.60  F:6.0  D:0.5  T:100
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 5602.5 ms
+     • LLM → Update (KEY)    : 5605.0 ms
+     • Full cycle time       : 5605.4 ms
+     • Avg msg buffer wait   : 13200.6 ms
+     • Max end-to-end (worst): 15567.9 ms
+----------------------------------------------------------------------
+[16:03:26] ANALYSIS CYCLE
+   AUDIENCE INPUTS (5): Increase the brightness | Thick texture, no space | I want a moment of building tension | Sudden change! | Make it soft and continuous
+   OLD STATE  -> P:0.60  F:6.0  D:0.5  T:100
+   NEW STATE  -> P:0.60  F:4.8  D:0.5  T:100
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 22279.5 ms
+     • LLM → Update (KEY)    : 22280.7 ms
+     • Full cycle time       : 22281.2 ms
+     • Avg msg buffer wait   : 50358.3 ms
+     • Max end-to-end (worst): 79802.0 ms
+----------------------------------------------------------------------
+
+======================================================================
+OFFLINE ANALYSIS SESSION: 2026-07-14 16:05:31
+======================================================================
+[16:06:52] ANALYSIS CYCLE
+   AUDIENCE INPUTS (4): Too bright, bring it down | Push the intensity higher | I want a moment of building tension | Make it granular like sand
+   OLD STATE  -> P:1.00  F:1.0  D:0.5  T:1000
+   NEW STATE  -> P:0.90  F:4.8  D:1.2  T:1495
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 21709.4 ms
+     • LLM → Update (KEY)    : 21712.0 ms
+     • Full cycle time       : 21712.2 ms
+     • Avg msg buffer wait   : 44875.8 ms
+     • Max end-to-end (worst): 53611.8 ms
+----------------------------------------------------------------------
+[16:08:03] ANALYSIS CYCLE
+   AUDIENCE INPUTS (7): It's too intense, calm it down | Make it more aggressive | Remove the fragmentation | Increase the brightness | Make it brighter and sharper | Make it very full and immersive | Sudden change!
+   OLD STATE  -> P:0.90  F:4.8  D:1.2  T:1495
+   NEW STATE  -> P:1.16  F:1.6  D:1.2  T:3205
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 10999.9 ms
+     • LLM → Update (KEY)    : 11001.3 ms
+     • Full cycle time       : 11001.7 ms
+     • Avg msg buffer wait   : 43073.1 ms
+     • Max end-to-end (worst): 91782.9 ms
+----------------------------------------------------------------------
+[16:09:11] ANALYSIS CYCLE
+   AUDIENCE INPUTS (5): I want it darker and more muffled | Thick texture, no space | Make it more energetic | A calm and slow atmosphere | I want a smooth continuous flow
+   OLD STATE  -> P:1.16  F:1.6  D:1.2  T:3205
+   NEW STATE  -> P:0.76  F:0.1  D:1.2  T:1205
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 7433.6 ms
+     • LLM → Update (KEY)    : 7435.3 ms
+     • Full cycle time       : 7435.8 ms
+     • Avg msg buffer wait   : 55988.9 ms
+     • Max end-to-end (worst): 76022.0 ms
+----------------------------------------------------------------------
+[16:10:20] ANALYSIS CYCLE
+   AUDIENCE INPUTS (6): I want the sound darker and deeper | Reduce the energy | Make it slower and more stable | More bass, less brightness | I want an abrupt jump in intensity right now | Increase the intensity gradually
+   OLD STATE  -> P:0.76  F:0.1  D:1.2  T:1205
+   NEW STATE  -> P:0.50  F:0.1  D:1.2  T:100
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 9359.8 ms
+     • LLM → Update (KEY)    : 9360.9 ms
+     • Full cycle time       : 9361.3 ms
+     • Avg msg buffer wait   : 49932.1 ms
+     • Max end-to-end (worst): 71794.6 ms
+----------------------------------------------------------------------
+[16:11:24] ANALYSIS CYCLE
+   AUDIENCE INPUTS (1): Make it more low and heavy
+   OLD STATE  -> P:0.50  F:0.1  D:1.2  T:100
+   NEW STATE  -> P:0.50  F:0.1  D:1.2  T:100
+   CALC RAMP  : 0 ms
+   LATENCY BREAKDOWN:
+     • Gemini API call       : 4100.8 ms
+     • LLM → Update (KEY)    : 4101.7 ms
+     • Full cycle time       : 4102.0 ms
+     • Avg msg buffer wait   : 19105.0 ms
+     • Max end-to-end (worst): 19105.0 ms
+----------------------------------------------------------------------
